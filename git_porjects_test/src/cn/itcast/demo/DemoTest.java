@@ -7,6 +7,8 @@ public class DemoTest {
         System.out.println("樊文凯大智障");
         System.out.println("樊文凯小智障");
 
+        //hello
+        System.out.println(123);
     }
 
     public void test(){
