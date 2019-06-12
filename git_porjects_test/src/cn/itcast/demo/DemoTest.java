@@ -12,5 +12,7 @@ public class DemoTest {
     public void test(){
         int i = 10;
         i += 3;
+
+        System.out.println(i);
     }
 }
